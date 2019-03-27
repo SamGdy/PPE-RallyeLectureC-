@@ -15,3 +15,6 @@ Les outils mis en oeuvre :
 * Windows Form
 * Git
 
+Tout d'abord nous avons créée la base de données pour acceuillir et traiter ces informations :
+
+![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureC-/blob/master/BddRallyeLecture.PNG)
