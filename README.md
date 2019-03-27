@@ -25,6 +25,6 @@ Le logiciel se présente ainsi :
 
 ![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/logiciel.PNG)
 
-![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/CsvEleve.PNG)
+![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/CsvEleve.PNG) ![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/CsvEleveIdentification.PNG)
 
-![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/CsvEleveIdentification.PNG)
+
