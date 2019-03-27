@@ -19,3 +19,12 @@ Tout d'abord nous avons créée la base de données pour acceuillir et traiter c
 
 ![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureC-/blob/master/BddRallyeLecture.PNG)
 
+Le logiciel se présente ainsi : 
+
+![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/Identification.PNG)
+
+![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/logiciel.PNG)
+
+![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/CsvEleve.PNG)
+
+![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/CsvEleveIdentification.PNG)
