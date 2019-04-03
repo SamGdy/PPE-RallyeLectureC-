@@ -19,6 +19,10 @@ Tout d'abord nous avons créée la base de données pour acceuillir et traiter c
 
 ![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureC-/blob/master/BddRallyeLecture.PNG)
 
+Base de donnée Aauth :
+ 
+![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/DB_Schema_Aauth.PNG)
+
 Le logiciel se présente ainsi : L'enseignant s'identifit aux logiciel.
 
 ![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/Identification.PNG)
