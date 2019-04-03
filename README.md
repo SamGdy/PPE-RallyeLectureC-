@@ -23,13 +23,13 @@ Base de donnée Aauth :
  
 ![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/DB_Schema_Aauth.PNG)
 
-Le logiciel se présente ainsi : L'enseignant s'identifit aux logiciel.
+Le logiciel se présente ainsi : L'enseignant s'identifie au logiciel.
 
 ![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/Identification.PNG)
 
-Après s'être identifié, il à accès au logiciel 
+Après s'être identifié, il a accès au logiciel 
 
-Il peut choisir un ou plusieur fichier CSV ou se trouve le nom de famille et le prénom des élèves.
+Il peut choisir un ou plusieur fichier CSV où se trouve le nom de famille et le prénom des élèves.
 
 ![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/logiciel.PNG)
 
