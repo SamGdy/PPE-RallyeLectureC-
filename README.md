@@ -35,7 +35,7 @@ Il peut choisir un ou plusieurs fichiers CSV où se trouve le nom de famille et 
 
 Une fois le fichier sélectionné, l'enseignant va définir la classe, le niveau, et si le mot de passe doit être généré aléatoirement ou pas.
 
-Fichier original / Fichier créée
+Fichier original / Fichier créé
 
 ![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/CsvEleve.PNG)     ![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/CsvEleveIdentification.PNG)
 
