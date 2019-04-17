@@ -25,6 +25,9 @@ Base de donnée Aauth :
 
 Le logiciel se présente ainsi : L'enseignant s'identifie au logiciel.
 
+
+![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/casUtilisation.PNG)
+
 ![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/Identification.PNG)
 
 Après s'être identifié, il a accès au logiciel 
